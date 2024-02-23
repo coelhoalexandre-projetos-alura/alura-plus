@@ -46,6 +46,10 @@ Em um [curso](https://cursos.alura.com.br/course/html-css-praticando-html-css) e
 
 ## Adaptações
 
+Este é um ótimo projeto e até possui algumas toques especiais meus, entretanto ele não possui responsividade originalmente. Por causa disso, para ampliar minhas habilidades e permitir que esse site seja capaz de melhorar ainda mais, estarei buscando torna-lo mais responsivo.
+
+**Em construção
+
 ## Autor
 
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Como já mencionado, esse projeto eu fiz sob orientação da instrutora [**Mônica Hillman**](https://github.com/MonicaHillman). Todo o design foi repassado e os códigos ensinados. Entretanto, como mostrado no tópico anterior, busquei tornar esse projeto responsivo, algo que originalmente ele não era.
