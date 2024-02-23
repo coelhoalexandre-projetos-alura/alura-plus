@@ -16,8 +16,8 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-- [Contribuição](#contribuição)
-- [Autor](#autores)
+- [Adaptações](#adaptações)
+- [Autor](#autor)
 
 ## Sobre o Projeto
 
@@ -44,18 +44,11 @@ Em um [curso](https://cursos.alura.com.br/course/html-css-praticando-html-css) e
 
 **Imagem com Width de 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-1280px.jpg
 
-## Contribuição
+## Adaptações
 
-- Por que contribuir?
-- Quem contribuiu?
-- Como contribui?
+## Autor
 
-## Autor(es)
-
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Como já mencionado, esse projeto eu fiz sob orientação da instrutora [**Mônica Hillman**](https://github.com/MonicaHillman). Todo o design foi repassado e os códigos ensinados. Entretanto, como mostrado no tópico anterior, busquei tornar esse projeto responsivo, algo que originalmente ele não era.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
@@ -63,7 +56,8 @@ Logo abaixo estão os meus principais links, fique a vontade de acessar o que ma
 
 <div align="center">
 
-<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge"> ou <a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
 <a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 <a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
