@@ -42,8 +42,7 @@ Em um [curso](https://cursos.alura.com.br/course/html-css-praticando-html-css) e
 
 ## Layouts
 
-**Width de 1280px** <br>
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-1280px.jpg" alt="Imagem do Projeto Alura Plus 1280px">
+**Imagem com Width de 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-1280px.jpg
 
 ## Contribuição
 
