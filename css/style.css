@@ -100,7 +100,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5vw;
+    gap: 5vh;
 
     height: 100vh;
 }
@@ -171,6 +171,7 @@ body {
 .information__container {
     max-width: 1200px;
 }
+
 .information__list {
     display: flex;
     justify-content: center;
