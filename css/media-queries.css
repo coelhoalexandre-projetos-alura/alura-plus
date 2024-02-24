@@ -76,8 +76,27 @@
     }
 }
 
+@media screen and (min-width: 678px) and (max-width: 1023px) {
+    .devices-container__list li {
+        width: 30%;
+    }
+
+    .devices-container__list li img{
+        width: 100%;
+    }
+
+    .list__item {
+        font-size: 2.8rem;
+        line-height: 3.4rem;
+    }
+}
+
 @media screen and (max-width: 1280px) {
     .information__container {
         width: 90%;
+    }
+
+    .devices-container__list li img{
+        width: 100%;
     }
 }
