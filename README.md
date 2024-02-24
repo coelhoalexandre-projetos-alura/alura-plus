@@ -61,6 +61,8 @@ Agora para com uma resolução **768px**, o resultado final não foi o melhor, e
 
 Por fim, o com menos mudanças, o de **1024px**: [imagem - link GitHub](https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-1024.jpg). A única alteração importante foi **reduzir a largura do footer**, para que tenha respiros. Resultando em: [imagem - link GitHub](https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-1024px.jpg).
 
+Obs.: Por as imagens serem muito grandes em questão de altura, preferir criar links que redirecionam o leitor para essas imagens. Todos os links levam para a imagem que está salva no repositorio Projetos Alura.
+
 ## Autor
 
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Como já mencionado, esse projeto eu fiz sob orientação da instrutora [**Mônica Hillman**](https://github.com/MonicaHillman). Todo o design foi repassado e os códigos ensinados. Entretanto, como mostrado no tópico anterior, busquei tornar esse projeto responsivo, algo que originalmente ele não era.
