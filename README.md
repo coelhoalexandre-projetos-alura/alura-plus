@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/coelhoalexandre/projeto-alura-plus/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em_Progresso-blue.svg" alt="Em Progresso">
+<a href="https://github.com/coelhoalexandre/projeto-alura-plus/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
