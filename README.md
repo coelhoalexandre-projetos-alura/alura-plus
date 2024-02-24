@@ -46,7 +46,7 @@ Em um [curso](https://cursos.alura.com.br/course/html-css-praticando-html-css) e
 
 ## Adaptações
 
-Este é um ótimo projeto e até possui algumas toques especiais meus, entretanto ele não possui responsividade originalmente. Por causa disso, para ampliar minhas habilidades e permitir que esse site seja capaz de melhorar ainda mais, estarei buscando torna-lo mais responsivo.
+Este é um ótimo projeto e até possui algumas toques especiais meus, entretanto ele **não possui responsividade originalmente**. Por causa disso, para ampliar minhas habilidades e permitir que esse site seja capaz de melhorar ainda mais, estarei buscando torna-lo mais responsivo.
 
 Comecei criando um novo arquivo CSS onde eu colcoaria todos os Medias Queries e criei um que afetaria os dispositivos móveis. A príncipio, o projeto em 480px estava assim: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-480px.jpg. Minhas principais mudanças foram:
 
@@ -57,9 +57,9 @@ Comecei criando um novo arquivo CSS onde eu colcoaria todos os Medias Queries e 
 
 Dessa forma, o resultado foi esse: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-480px.jpg.
 
-Agora para com uma resolução 768px, o resultado final não foi o melhor, entretanto já se tornou responsivo. Saiu disso: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-768px.jpg, para isso: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-768px.jpg. A principal mudança foi reduzir o tamanho dos itens no container de dispositivos para conseguirem ocupar o espaço sem quebrar.
+Agora para com uma resolução 768px, o resultado final não foi o melhor, entretanto já se tornou responsivo. Saiu disso: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-768px.jpg, para isso: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-768px.jpg. A principal mudança foi **reduzir o tamanho dos itens no container de dispositivos** para conseguirem ocupar o espaço sem quebrar.
 
-Por fim, o com menos mudanças, o de 1024px: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-1024.jpg. A única alteração importante foi reduzir o espaço ocupado pelo footer, para que tenha respiros. Resultando em: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-1024px.jpg.
+Por fim, o com menos mudanças, o de 1024px: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-sr-1024.jpg. A única alteração importante foi **reduzir a largura do footer**, para que tenha respiros. Resultando em: https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-plus-cr-1024px.jpg.
 
 ## Autor
 
